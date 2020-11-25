@@ -1,1 +1,2 @@
-dev yml 这是开发
+config:
+  info: "this is master cofig dev.yml"
